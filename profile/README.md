@@ -2,7 +2,7 @@
 
 *Protein sequence analysis & classification*
 
-## About InterPro
+## ℹ️ About InterPro
 
 InterPro provides functional analysis of proteins by classifying them into families and predicting domains and important sites. 
 We combine protein signatures from a number of member databases into a single searchable resource, 
