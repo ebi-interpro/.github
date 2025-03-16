@@ -12,10 +12,16 @@ capitalising on their individual strengths to produce a powerful integrated data
 
 InterPro is available at [ebi.ac.uk/interpro](https://www.ebi.ac.uk/interpro/).
 
-## 💻 InterProScan
+## 🔬 InterProScan
 
 InterProScan is the software package that allows sequences (protein and nucleic) to be scanned against InterPro's signatures. 
 Signatures are predictive models, provided by several different databases, that make up the InterPro consortium.
+
+InterProScan is available in several ways:
+
+- Web interface: scan your sequences on the 🌐 [InterPro website](https://www.ebi.ac.uk/interpro/search/sequence/).
+- RESTful APIs: access the tool programmatically via the Job Dispatcher ⚙️ [web services](https://www.ebi.ac.uk/jdispatcher/docs/webservices/).
+- Local installation: download the package for local use from the 💾 [InterProScan download page](https://www.ebi.ac.uk/interpro/download/InterProScan/).
 
 ## 📚 Citing InterPro
 
